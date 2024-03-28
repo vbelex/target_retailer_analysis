@@ -17,10 +17,11 @@ where table_name = 'customers'
 
 **Results:**
 
-column_name	data_type
-customer_id	STRING
-customer_unique_id	STRING
-customer_zip_code_prefix	INT64
-customer_city	STRING
-customer_state	STRING
+|column_name |	data_type |
+|------------|------------|
+|customer_id | 	STRING |
+|customer_unique_id |	STRING |
+|customer_zip_code_prefix |	INT64 |
+|customer_city |	STRING |
+|customer_state |	STRING |
 
